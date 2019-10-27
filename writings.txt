@@ -1,3 +1,5 @@
 hello world!
 
 this is the second edit.
+
+this is the third edit with git config --global user.email "" changed
