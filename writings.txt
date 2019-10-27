@@ -6,3 +6,5 @@ this is the third edit with git config --global user.email "" changed
 
 this the fourth edit after changing user name on github and changing remote name 
 this is the fifth edit after changing testing to testing_old on local side
+
+this is the sixth edit after copying testing_old to testing_old_copy on local side
